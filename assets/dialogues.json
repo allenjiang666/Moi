@@ -1,0 +1,526 @@
+{
+  "dialogues": [
+    {
+      "id": 1,
+      "title": "Greetings",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Hi! How are you?",
+          "translation": "嗨！你好吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "I am good, thank you. How about you?",
+          "translation": "我很好，谢谢。你呢？"
+        },
+        {
+          "speaker": "A",
+          "text": "I am fine. Nice to see you!",
+          "translation": "我很好。很高兴见到你！"
+        },
+        {
+          "speaker": "B",
+          "text": "Nice to see you too!",
+          "translation": "我也很高兴见到你！"
+        },
+        {
+          "speaker": "A",
+          "text": "Are you having a good day?",
+          "translation": "你今天过得好吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, it's been wonderful!",
+          "translation": "是的，很精彩！"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Introducing Yourself",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "What is your name?",
+          "translation": "你叫什么名字？"
+        },
+        {
+          "speaker": "B",
+          "text": "My name is Anna. What is your name?",
+          "translation": "我叫安娜。你叫什么名字？"
+        },
+        {
+          "speaker": "A",
+          "text": "I am John. Nice to meet you!",
+          "translation": "我是约翰。很高兴认识你！"
+        },
+        {
+          "speaker": "B",
+          "text": "Nice to meet you too!",
+          "translation": "我也很高兴认识你！"
+        },
+        {
+          "speaker": "A",
+          "text": "Where are you from, Anna?",
+          "translation": "安娜，你来自哪里？"
+        },
+        {
+          "speaker": "B",
+          "text": "I'm from Canada. How about you?",
+          "translation": "我来自加拿大。你呢？"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Talking About Family",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Do you have a family?",
+          "translation": "你有家人吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, I have a mother, father, and one sister.",
+          "translation": "是的，我有妈妈、爸爸和一个妹妹。"
+        },
+        {
+          "speaker": "A",
+          "text": "That is nice. I have two brothers.",
+          "translation": "那很好。我有两个兄弟。"
+        },
+        {
+          "speaker": "B",
+          "text": "Do you live with them?",
+          "translation": "你和他们住在一起吗？"
+        },
+        {
+          "speaker": "A",
+          "text": "Yes, we live in a big house.",
+          "translation": "是的，我们住在一个大房子里。"
+        },
+        {
+          "speaker": "B",
+          "text": "That sounds wonderful!",
+          "translation": "听起来很棒！"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Asking for Directions",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Excuse me, where is the store?",
+          "translation": "对不起，请问商店在哪里？"
+        },
+        {
+          "speaker": "B",
+          "text": "It is over there, near the park.",
+          "translation": "就在那边，公园附近。"
+        },
+        {
+          "speaker": "A",
+          "text": "Thank you! Is it far?",
+          "translation": "谢谢！远吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "No, it is not far. You can walk there.",
+          "translation": "不远，你可以走着去。"
+        },
+        {
+          "speaker": "A",
+          "text": "How long will it take?",
+          "translation": "需要多长时间？"
+        },
+        {
+          "speaker": "B",
+          "text": "About five minutes by walking.",
+          "translation": "走路大约五分钟。"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Ordering Food",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "What do you want to eat?",
+          "translation": "你想吃什么？"
+        },
+        {
+          "speaker": "B",
+          "text": "I want a sandwich and some water.",
+          "translation": "我想要一个三明治和一些水。"
+        },
+        {
+          "speaker": "A",
+          "text": "I will have the same. Do you like the food here?",
+          "translation": "我也要一样的。你喜欢这里的食物吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, it is very good.",
+          "translation": "是的，很好吃。"
+        },
+        {
+          "speaker": "A",
+          "text": "Would you like anything else?",
+          "translation": "你还想要其他的吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "No, thank you. This is enough.",
+          "translation": "不用了，谢谢。这些就够了。"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Talking About the Weather",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "How is the weather today?",
+          "translation": "今天天气怎么样？"
+        },
+        {
+          "speaker": "B",
+          "text": "It is sunny and warm.",
+          "translation": "天气晴朗温暖。"
+        },
+        {
+          "speaker": "A",
+          "text": "I like this weather. Do you?",
+          "translation": "我喜欢这样的天气。你呢？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, I love it!",
+          "translation": "是的，我很喜欢！"
+        },
+        {
+          "speaker": "A",
+          "text": "Perfect day for a walk outside!",
+          "translation": "是个出去散步的好天气！"
+        },
+        {
+          "speaker": "B",
+          "text": "You're right! Let's go together.",
+          "translation": "你说得对！我们一起去吧。"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Making Plans",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "What do you want to do today?",
+          "translation": "今天你想做什么？"
+        },
+        {
+          "speaker": "B",
+          "text": "Let's go to the park.",
+          "translation": "我们去公园吧。"
+        },
+        {
+          "speaker": "A",
+          "text": "That sounds fun! Can we go now?",
+          "translation": "听起来很有趣！我们现在能去吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, let's go!",
+          "translation": "好的，我们走吧！"
+        },
+        {
+          "speaker": "A",
+          "text": "Should we bring some snacks?",
+          "translation": "我们要带些零食吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Good idea! I'll pack some sandwiches.",
+          "translation": "好主意！我来准备些三明治。"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Shopping",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "How much is this shirt?",
+          "translation": "这件衬衫多少钱？"
+        },
+        {
+          "speaker": "B",
+          "text": "It is ten dollars.",
+          "translation": "十美元。"
+        },
+        {
+          "speaker": "A",
+          "text": "Do you have it in a smaller size?",
+          "translation": "你们有小一点的尺码吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, here you go.",
+          "translation": "是的，给你。"
+        },
+        {
+          "speaker": "A",
+          "text": "Can I try it on?",
+          "translation": "我可以试穿吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Of course, the fitting room is over there.",
+          "translation": "当然可以，试衣间在那边。"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Talking About Hobbies",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "What do you like to do?",
+          "translation": "你喜欢做什么？"
+        },
+        {
+          "speaker": "B",
+          "text": "I like to read books and play games.",
+          "translation": "我喜欢读书和玩游戏。"
+        },
+        {
+          "speaker": "A",
+          "text": "That sounds fun. I like to watch movies.",
+          "translation": "听起来很有趣。我喜欢看电影。"
+        },
+        {
+          "speaker": "B",
+          "text": "We should watch a movie together!",
+          "translation": "我们应该一起看电影！"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Saying Goodbye",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "It was nice talking to you.",
+          "translation": "很高兴和你聊天。"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, it was nice talking to you too.",
+          "translation": "是的，我也很高兴和你聊天。"
+        },
+        {
+          "speaker": "A",
+          "text": "I hope we can meet again soon.",
+          "translation": "希望我们能很快再见。"
+        },
+        {
+          "speaker": "B",
+          "text": "Me too! Have a great day!",
+          "translation": "我也是！祝你有愉快的一天！"
+        },
+        { "speaker": "A", "text": "See you later!", "translation": "再见！" },
+        { "speaker": "B", "text": "See you!", "translation": "再见！" }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Asking for Help",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Can you help me, please?",
+          "translation": "请问你能帮我吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Of course! What do you need?",
+          "translation": "当然可以！你需要什么帮助？"
+        },
+        {
+          "speaker": "A",
+          "text": "I need to find the bus stop.",
+          "translation": "我需要找到公交车站。"
+        },
+        {
+          "speaker": "B",
+          "text": "It is just around the corner.",
+          "translation": "就在拐角处。"
+        },
+        {
+          "speaker": "A",
+          "text": "Thank you so much for your help!",
+          "translation": "非常感谢你的帮助！"
+        },
+        {
+          "speaker": "B",
+          "text": "You're welcome! Have a good day!",
+          "translation": "不客气！祝你有愉快的一天！"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Talking About Work",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Where do you work?",
+          "translation": "你在哪里工作？"
+        },
+        {
+          "speaker": "B",
+          "text": "I work at a school. What about you?",
+          "translation": "我在学校工作。你呢？"
+        },
+        {
+          "speaker": "A",
+          "text": "I work at a store. Do you like your job?",
+          "translation": "我在商店工作。你喜欢你的工作吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, I love it!",
+          "translation": "是的，我很喜欢！"
+        },
+        {
+          "speaker": "A",
+          "text": "What do you teach at school?",
+          "translation": "你在学校教什么？"
+        },
+        {
+          "speaker": "B",
+          "text": "I teach English to young students.",
+          "translation": "我教小学生英语。"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Talking About Time",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "What time is it?",
+          "translation": "现在几点了？"
+        },
+        {
+          "speaker": "B",
+          "text": "It is three o'clock.",
+          "translation": "现在三点钟。"
+        },
+        {
+          "speaker": "A",
+          "text": "Oh no, I am late!",
+          "translation": "哦不，我迟到了！"
+        },
+        {
+          "speaker": "B",
+          "text": "Don't worry, you have time.",
+          "translation": "别担心，你还有时间。"
+        },
+        {
+          "speaker": "A",
+          "text": "Are you sure? My meeting is at 3:30.",
+          "translation": "你确定吗？我的会议是3:30。"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, you still have 30 minutes.",
+          "translation": "是的，你还有30分钟。"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Talking About Feelings",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "How do you feel today?",
+          "translation": "你今天感觉如何？"
+        },
+        {
+          "speaker": "B",
+          "text": "I feel happy. How about you?",
+          "translation": "我感觉很开心。你呢？"
+        },
+        {
+          "speaker": "A",
+          "text": "I feel tired, but I am okay.",
+          "translation": "我感觉有点累，但还好。"
+        },
+        {
+          "speaker": "B",
+          "text": "You should rest.",
+          "translation": "你应该休息一下。"
+        },
+        {
+          "speaker": "A",
+          "text": "Maybe you're right. I worked a lot today.",
+          "translation": "也许你说得对。我今天工作很多。"
+        },
+        {
+          "speaker": "B",
+          "text": "Take care of yourself!",
+          "translation": "照顾好自己！"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Talking About Food",
+      "conversation": [
+        {
+          "speaker": "A",
+          "text": "Do you like pizza?",
+          "translation": "你喜欢披萨吗？"
+        },
+        {
+          "speaker": "B",
+          "text": "Yes, I love pizza! Do you?",
+          "translation": "是的，我很喜欢披萨！你呢？"
+        },
+        {
+          "speaker": "A",
+          "text": "Yes, it is my favorite food.",
+          "translation": "是的，这是我最喜欢的食物。"
+        },
+        {
+          "speaker": "B",
+          "text": "Let's eat some together!",
+          "translation": "我们一起吃吧！"
+        },
+        {
+          "speaker": "A",
+          "text": "Which pizza topping do you prefer?",
+          "translation": "你喜欢什么口味的披萨？"
+        },
+        {
+          "speaker": "B",
+          "text": "I love pepperoni and cheese!",
+          "translation": "我喜欢意大利香肠和奶酪！"
+        }
+      ]
+    }
+  ]
+}
