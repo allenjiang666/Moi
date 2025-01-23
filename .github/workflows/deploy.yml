@@ -28,6 +28,7 @@ jobs:
       - name: Build Nuxt app
         env:
           GOOGLE_CLOUD_API_KEY: ${{ secrets.GOOGLE_CLOUD_API_KEY }}
+          NITRO_PRESET: github_pages
         run: npm run generate
 
       # Step 5: Deploy to GitHub Pages

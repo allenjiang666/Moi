@@ -9,4 +9,8 @@ export default defineNuxtConfig({
       googleCloudApiKey: process.env.GOOGLE_CLOUD_API_KEY,
     },
   },
+  app: {
+    baseURL: process.env.NODE_ENV === "production" ? "/Moi/" : "/",
+    buildAssetsDir: "assets",
+  },
 });
