@@ -12,5 +12,9 @@ export default defineNuxtConfig({
   app: {
     baseURL: process.env.NODE_ENV === "production" ? "/Moi/" : "/",
     buildAssetsDir: "assets",
+    head: {
+      title: "Moi",
+      meta: [{ name: "apple-mobile-web-app-capable", content: "yes" }],
+    },
   },
 });
