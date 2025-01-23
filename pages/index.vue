@@ -43,7 +43,7 @@ const speakText = (text, speaker) => {
     // Create a new speech utterance
     const utterance = new SpeechSynthesisUtterance(text)
     utterance.lang = 'en-US' // Set language to English
-    utterance.rate = 0.9 // Slightly slower rate for better clarity
+    utterance.rate = 0.5 // Slightly slower rate for better clarity
     utterance.pitch = speaker === 'A' ? 1.2 : 0.8 // Higher pitch for A, lower for B
 
     // Get available voices and set the appropriate voice

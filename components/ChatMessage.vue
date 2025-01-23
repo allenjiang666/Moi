@@ -46,7 +46,7 @@
 
 <script setup>
 import { useVoiceRecorder } from '@/composables/useVoiceRecorder'
-import { computed } from 'vue'
+import { computed, watch } from 'vue'
 
 const props = defineProps({
     speaker: {
@@ -82,6 +82,12 @@ const {
     startRecording,
     stopRecording
 } = useVoiceRecorder()
+
+watch(() => props.isPracticeModeActive, (newValue) => {
+    if (!newValue) {
+        transcribedText.value = ''
+    }
+})
 
 const handleClick = () => {
     if (!props.isPracticeModeActive || props.speaker === 'A') {
