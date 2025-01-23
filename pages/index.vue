@@ -12,6 +12,10 @@ import dialoguesData from '@/assets/dialogues.json'
 import Sidebar from '@/components/Sidebar.vue'
 import DialogueView from '@/components/DialogueView.vue'
 
+definePageMeta({
+    middleware: 'auth'
+})
+
 const dialogues = ref([])
 const selectedDialogue = ref(null)
 const isPracticeModeActive = ref(false)
